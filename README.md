@@ -1,4 +1,4 @@
-# Sparks-Foundation-Internship-Task-1
+# Predicting the percentage of a student based on the number of study hours
 Prediction using Supervised ML
 
 (Level - Beginner)
